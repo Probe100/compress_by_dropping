@@ -1,0 +1,8 @@
+ft/
+__pycache__/
+wandb/
+tmp/
+output/
+models/
+*.ipynb
+hfd.sh
