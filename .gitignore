@@ -6,3 +6,4 @@ output/
 models/
 *.ipynb
 hfd.sh
+fintune_attn_pruned.py
